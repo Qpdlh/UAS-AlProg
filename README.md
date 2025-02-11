@@ -1,4 +1,4 @@
-![InventarisToko drawio (1)](https://github.com/user-attachments/assets/385d7a2c-2067-4d68-92b7-ddb1aad79a7c)![InventarisToko drawio (1)](https://github.com/user-attachments/assets/385d7a2c-2067-4d68-92b7-ddb1aad79a7c)![InventarisToko drawio (1)](https://github.com/user-attachments/assets/385d7a2c-2067-4d68-92b7-ddb1aad79a7c)Nama : Rifki Padilah
+Nama : Rifki Padilah
 Nim : 24552011010
 Mata kuliah : Algoritma Pemprograman
 
