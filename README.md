@@ -1,4 +1,4 @@
-Nama : Rifki Padilah
+![InventarisToko drawio (1)](https://github.com/user-attachments/assets/385d7a2c-2067-4d68-92b7-ddb1aad79a7c)![InventarisToko drawio (1)](https://github.com/user-attachments/assets/385d7a2c-2067-4d68-92b7-ddb1aad79a7c)![InventarisToko drawio (1)](https://github.com/user-attachments/assets/385d7a2c-2067-4d68-92b7-ddb1aad79a7c)Nama : Rifki Padilah
 Nim : 24552011010
 Mata kuliah : Algoritma Pemprograman
 
@@ -12,4 +12,4 @@ Disini saya membuat contoh sederhana untuk sistem inventaris toko yang bertujuan
 ![Screenshot 2025-02-11 220929](https://github.com/user-attachments/assets/51251511-5d4b-4ba2-88e0-ce18a75d7911)
 ![Screenshot 2025-02-11 220939](https://github.com/user-attachments/assets/071bef44-e7d9-4f9c-bd0f-d90648ac88d2)
 
-
+![InventarisToko drawio (1)](https://github.com/user-attachments/assets/45f12507-d916-41c9-98c9-729e7cc5a78f)
